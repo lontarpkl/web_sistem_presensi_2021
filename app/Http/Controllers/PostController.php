@@ -81,7 +81,7 @@ class PostController extends Controller
             'assets/photo', 'public'
         );
 
-        $SERVER_API_KEY = 'AAAA0Gynpx8:APA91bGZ_Bhq-7pDDmUgDdEoxxQ2pTSQiJNicyck2P9apJwkSDUvyq8KBGubZQu_Wu0x1UZeElbQF_Lp2CUZc1IA0DMf9DNmoE2z0nwWukTb4sIjUvykkRxis5vPOXtVag8k_-Cg_DI5';
+        $SERVER_API_KEY = 'api key';
 
                 $url = 'https://fcm.googleapis.com/fcm/send';
 
